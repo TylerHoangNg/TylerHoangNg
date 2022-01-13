@@ -12,7 +12,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerHoangNg&theme=radical)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerHoangNg&theme=radical)]()  
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerHoangNg&langs_count=5&theme=tokyonight&layout=compact)]()    
 
 <!--
