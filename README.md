@@ -13,7 +13,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerHoangNg&langs_count=6&theme=tokyonight&layout=compact)]()    
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerHoangNg&langs_count=9&theme=tokyonight&layout=compact)]()    
 
 <!--
 **willjw3/willjw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
