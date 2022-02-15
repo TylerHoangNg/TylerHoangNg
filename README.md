@@ -9,6 +9,7 @@
 ![Svelte Tag](https://img.shields.io/badge/Svelte-FFFFFF?style=for-the-badge&logo=svelte&logoColor=ff3e00) 
 ![Express Tag](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=express&logoColor=ff3e00) 
 ![Node Tag](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=Sql&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
