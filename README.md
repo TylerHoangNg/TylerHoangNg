@@ -12,3 +12,18 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerHoangNg&langs_count=9&theme=tokyonight&layout=compact)]()    
 Website in progress: https://horizan-beta.vercel.app
+
+
+<!--START_SECTION:waka-->
+
+```txt
+PHP              3 hrs 7 mins    ███████████████████▒░░░░░   77.04 %
+YAML             29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Blade Template   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Bash             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Markdown         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+```
+
+<!--END_SECTION:waka-->
+    
+![github contribution grid snake animation](https://raw.githubusercontent.com/saedyousef/saedyousef/output/github-contribution-grid-snake.svg)
