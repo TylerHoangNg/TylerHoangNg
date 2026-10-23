@@ -24,7 +24,6 @@
 <br>
 
 &nbsp;<div>
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
 <!-- ### Frontend Development
@@ -40,6 +39,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerHoangNg&langs_count=9&theme=tokyonight&layout=compact)]()  -->  
 Website in progress: https://horizan-beta.vercel.app
+http://amzn-devdot.s3-website-us-east-1.amazonaws.com/
 </div>
 <br>
 
